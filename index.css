@@ -1,0 +1,19 @@
+body {
+    margin: 0 auto;
+    background-color: black;    
+}
+
+#root {
+    padding: 3rem;
+    text-align: center;
+}
+
+#root h1 {
+    color: white;
+    text-align: center;
+}
+
+#root canvas {
+    display: block;
+    margin: 0 auto;
+}
